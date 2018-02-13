@@ -36,6 +36,7 @@ be used to trick the player by using slightly different audio cues.
 
 - ![Starting Screen](https://github.com/Shomnomnom/IGME-230/edit/master/StartingScreen.png)  
 - ![Discovered!](https://github.com/Shomnomnom/IGME-230/edit/master/Creature.png)  
+- They're pretty basic for now but I promise the finished product will be more fine-tuned
 
 ## About The Developer
 My name is Shawn Harkness and I am a 2nd year Game Design and Development Major. I like to think I'm pretty good at coding and 
