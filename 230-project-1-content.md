@@ -34,6 +34,6 @@ be used to trick the player by using slightly different audio cues.
 
 ## Screenshots:
 
-![Coming Soon] 
+![Coming Soon](https://github.com/Shomnomnom/IGME-230/edit/master/)
 
 ## Links
